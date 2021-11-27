@@ -9,5 +9,5 @@ DOI: https://doi.org/10.1017/S0003055405051646
 Three own extensions were added to the model:
 
 1) Non-voting (adujstable voting threshold for maximal distance of voters to next party; version = 2)
-2) Decision rule Optimizer
-3) Lobbyist and Party Member
+2) Decision rule Optimizer (version = 3)
+3) Lobbyist and Party Member (version = 4)
